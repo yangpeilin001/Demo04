@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.example.acer.demo04.gen.PeopleDao;
-
+//姚明亮弗兰克的感觉看；的任天野任天野rest有人童话故事犯桃花任天野任天野儿童
 public class Main2Activity extends AppCompatActivity implements View.OnClickListener {
 
     private EditText name;
@@ -27,7 +27,7 @@ public class Main2Activity extends AppCompatActivity implements View.OnClickList
         initView();
     }
 
-
+//受到隔夜惹桃花都是废话对方过后发过火电饭锅电饭锅
 
     private void initView() {
         name = (EditText) findViewById(R.id.name);
