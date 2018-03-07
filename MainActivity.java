@@ -82,7 +82,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
         return super.onOptionsItemSelected(item);
     }
-
+//加了客人推荐给公婆儿童健康Pro推荐看破
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
